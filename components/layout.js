@@ -35,7 +35,7 @@ export default function Layout({ children, home }) {
               height={250}
               width={200}
               alt={name}
-              // 936 × 1233
+              // 936 × 1233 (original resolution)
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </>
